@@ -1,0 +1,17 @@
+
+> ai-resume-studio@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.0.6:3001
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 4.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 20.5s (1458 modules)
+ GET / 200 in 430ms
+ GET / 200 in 324ms
+ ○ Compiling /builder ...
